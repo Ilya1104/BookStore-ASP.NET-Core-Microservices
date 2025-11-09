@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "BookStore.Ordering.Web.Controllers.OrderingController",
+    "Method": "Create",
+    "RelativePath": "api/ordering",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BookStore.Ordering.Web.Models.Ordering.CreateOredringDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
